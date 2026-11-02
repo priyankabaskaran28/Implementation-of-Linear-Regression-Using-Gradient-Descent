@@ -82,10 +82,7 @@ print(f"Final bias (b): {b}")
 ```
 
 ## Output:
-
-<img width="1278" height="588" alt="image" src="https://github.com/user-attachments/assets/56cda89b-130b-42ff-8d17-3f233c8eb0cb" />
-
-
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/56cda89b-130b-42ff-8d17-3f233c8eb0cb" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
